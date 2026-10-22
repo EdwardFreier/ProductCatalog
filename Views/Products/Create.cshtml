@@ -1,0 +1,16 @@
+﻿@model ProductCatalog.Models.Product
+
+<h1>Add Product</h1>
+<form asp-action="Create" method="post">
+	<div>
+		<label asp-for="Name"></label>
+		<input asp-for="Name" />
+		<span asp-validation-for="Name"></span>
+	</div>
+	<div>
+		<label asp-for="Price"></label>
+		<input asp-for="Price" />
+		<span asp-validation-for="Price"></span>
+	</div>
+	<button type="submit">Save</button>
+</form>
