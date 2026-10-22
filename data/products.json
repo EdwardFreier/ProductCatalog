@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Hot Dog",
+    "Price": 1.50
+  },
+  {
+    "Id": 2,
+    "Name": "Burger",
+    "Price": 3.00
+  },
+  {
+    "Id": 3,
+    "Name": "Cheese Burger",
+    "Price": 4.00
+  },
+  {
+    "Id": 4,
+    "Name": "Bees Churger",
+    "Price": 5.99
+  },
+  {
+    "Id": 5,
+    "Name": "Fries",
+    "Price": 999.99
+  },
+  {
+    "Id": 6,
+    "Name": "Example",
+    "Price": 2.50
+  }
+]
